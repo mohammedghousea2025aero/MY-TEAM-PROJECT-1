@@ -1,0 +1,2 @@
+MONGO_URI=mongodb://mohammedghousea:adXAlrpkXcowzZ5N@ac-wvi2es8-shard-00-00.b6iziok.mongodb.net:27017,ac-wvi2es8-shard-00-01.b6iziok.mongodb.net:27017,ac-wvi2es8-shard-00-02.b6iziok.mongodb.net:27017/?ssl=true&replicaSet=atlas-z8lrd5-shard-0&authSource=admin&appName=Cluster0
+PORT=5000
